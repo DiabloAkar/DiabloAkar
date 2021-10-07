@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello my name is Emre
+I'm living in Turkey
 
-<!--
-**DiabloAkar/DiabloAkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.discordapp.com/attachments/805191051316297759/895431920605872200/diabloakar.gif" width="500" />
 
-Here are some ideas to get you started:
+## My Social Media Acc:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [AkarGang Discord](https://discord.gg/DDcXf472BF) My discord address
+- [Instagram](https://github.com/YusufAkartr) My Instagram address
+- [Youtube](https://github.com/BunyaminEfe) My Youtube address
+
+-  **"If you have any questions, feel free to ask.."** 
+
+## My Project:
+
+### 
+
+1. `AkarGuard` Powerful ddos ​​protection system.
+### Layer 7 ddos protec-> akarguard.xyz
+2. `AkarBullet` A project I made for Bruteforce
+- there are so many, just know them ;)
+
+
+- Signed by AkarGang
